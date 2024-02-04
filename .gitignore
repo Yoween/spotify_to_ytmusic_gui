@@ -3,3 +3,5 @@ spotify2ytmusic/oauth.json
 spotify2ytmusic/playlists.json
 spotify2ytmusic/playlists_backup.json
 spotify2ytmusic/playlists_reverse.json
+spotify2ytmusic/cli.py
+spotify2ytmusic/reverse_playlist.py

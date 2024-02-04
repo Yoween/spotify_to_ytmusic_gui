@@ -1,3 +1,8 @@
+# THIS PROJECT IS NOW PART OF THE ORIGINAL SPOTIFY TO YTMUSIC BY @LINSOMNIAC
+
+# SO IT HAS BEEN ARCHIVED
+
+
 Graphical Tools for moving from Spotify to YTMusic
 
 # Overview
